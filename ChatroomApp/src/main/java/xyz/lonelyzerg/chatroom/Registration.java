@@ -35,7 +35,7 @@ public class Registration extends Thread{
 
 
 
-    public Registration(String host, String username, Handler register_handler){
+    Registration(String host, String username, Handler register_handler){
         this.host = host;
         this.username = username;
         this.register_handler = register_handler;

@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onBackPressed() {
-        if(back_pressed == 0 || back_pressed + exit_interval > System.currentTimeMillis()){
+        if(back_pressed == 0 || back_pressed + exit_interval < System.currentTimeMillis()){
             back_pressed = System.currentTimeMillis();
             Toast.makeText(getApplicationContext(), R.string.press_back_again, Toast.LENGTH_SHORT).show();
             return;

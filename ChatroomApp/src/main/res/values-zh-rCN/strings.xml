@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Chatroom</string>
+    <string name="app_name">聊天室</string>
     <string name="prompt">请输入主机名称和用户名</string>
     <string name="username_prompt">在这里输入用户名</string>
     <string name="host_prompt">在这里输入主机名称</string>
