@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chatroom</string>
+    <string name="prompt">Please Enter the Host and Username</string>
+    <string name="username_prompt">Enter Username Here</string>
+    <string name="host_prompt">Enter Host Here</string>
+    <string name="host_text">Host:</string>
+    <string name="username_text">Username:</string>
+    <string name="connect_button">Connect</string>
+    <string name="send_button">Send</string>
+    <string name="send_prompt">Enter Message Here</string>
+    <string name="err_username">Username is invalid. Please try another username.</string>
+    <string name="err_host">Host is unavaliable now. Please enter another host name.</string>
+    <string name="message_prompt">Please Enter Message Here!</string>
+    <string name="invalid_host_username">Invalid host or username</string>
+    <string name="disconnect_from_server">Successfully disconnected from server!</string>
+    <string name="press_back_again">Please press back again to exit!</string>
+</resources>

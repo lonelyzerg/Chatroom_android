@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chatroom</string>
+    <string name="prompt">请输入主机名称和用户名</string>
+    <string name="username_prompt">在这里输入用户名</string>
+    <string name="host_prompt">在这里输入主机名称</string>
+    <string name="host_text">主机：</string>
+    <string name="username_text">用户名：</string>
+    <string name="connect_button">连接</string>
+    <string name="send_button">发送</string>
+    <string name="send_prompt">在这里输入消息</string>
+    <string name="err_username">用户名不可用，请更换！</string>
+    <string name="err_host">无法连接至主机！</string>
+    <string name="message_prompt">在这里输入消息</string>
+    <string name="invalid_host_username">请输入有效的主机名称和用户名！</string>
+    <string name="disconnect_from_server">成功与服务器断开连接！</string>
+    <string name="press_back_again">再按一次返回键以退出</string>
+</resources>
